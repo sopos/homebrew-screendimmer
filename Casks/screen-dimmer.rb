@@ -1,6 +1,6 @@
 cask "screen-dimmer" do
-  version "1.5.0"
-  sha256 "b848101ff9d833bd7c69a18a093ec8756ce1d77b5b142b8414ef2ae89997f945"
+  version "1.6.0"
+  sha256 "77f8f6f2ce2304599bc58248f998941bd7346ddffc471bbbe7eceae99dde0346"
 
   url "https://github.com/sopos/ScreenDimmer/releases/download/v#{version}/ScreenDimmer.zip"
   name "ScreenDimmer"
